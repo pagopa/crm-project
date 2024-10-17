@@ -39,3 +39,8 @@ Di seguito riportati gli url degli ambienti creati:
 * Ambiente di test: [https://uat-pagopa.crm4.dynamics.com/](https://uat-pagopa.crm4.dynamics.com/)  
 * Ambiente di produzione: [https://pagopa.crm4.dynamics.com/](https://pagopa.crm4.dynamics.com/)
 
+
+----
+
+#### Rif. 
+* [1_PagoPA_MM_Sessione_20241004_v1.1](https://docs.google.com/document/d/1GTad8IEvvKHjZOjb_HWC4Cl4mOQG-Dtg/edit?usp=sharing&ouid=109593398864246406190&rtpof=true&sd=true)
